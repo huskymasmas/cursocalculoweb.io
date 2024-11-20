@@ -63,12 +63,12 @@ function cuestionario(){
  }
 
 
- if(checkbo1_1.checked){
+ if(checkbo1_1.checked && !checkbo1.checked){
 
     puntos = puntos + 0.5;
  }
  
- if(checkbo1_2.checked){
+ if(checkbo1_2.checked && !checkbo1.checked){
 
     puntos = puntos + 0.5;
  }
