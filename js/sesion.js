@@ -6,7 +6,7 @@ function precionar()
 {
 
     if(usuario.value == "Alumno" && contrasella.value == 2024){
-       window.location.href = '/curso.html';
+       window.location.href = 'https://huskymasmas.github.io/cursocalculoweb.io/curso.html';
 
 
 
